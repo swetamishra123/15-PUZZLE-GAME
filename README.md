@@ -7,7 +7,7 @@ This project is a web-based implementation of the classic 15 Puzzle Game using R
 - Drag and drop functionality to move tiles into the empty space.
 - Timer to track the duration of the game.
 - Responsive design for seamless gameplay across devices.
-
+  
 ### Technologies Used
 
 - ReactJS
